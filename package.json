@@ -1,0 +1,15 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "@hexlet-jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaxGre99",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
